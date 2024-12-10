@@ -1,0 +1,23 @@
+Page 1:
+SuperStore INVOICE
+
+# 10563
+Date: May 11 2012
+Bill To: Ship To: ; .
+| Ship Mode: First Class
+Yoseph Carroll Burgos, Castile and
+Leon, Spain Balance Due: $5,894.12
+Item Quantity Rate Amount
+Smead Lockers, Industrial 6 $1,074.06 $6,444.36
+Storage, Office Supplies, OFF-ST-6047
+Subtotal: $6,444.36
+Discount (10%): $644.44
+Shipping: $94.20
+Total: $5,894.12
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-YC21895120-41040
+

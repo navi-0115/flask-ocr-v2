@@ -1,0 +1,23 @@
+Page 1:
+SuperStore INVOICE
+
+#15951
+Date: Sep 22 2012
+Bill To: Ship To: ; .
+. | Ship Mode: First Class
+Zuschuss Carroll Berlin, Berlin,
+Germany Balance Due: $5,039.00
+Item Quantity Rate Amount
+Breville Microwave, Silver 5 $1,209.84 $6,049.20
+Appliances, Office Supplies, OFF-AP-3572
+Subtotal: $6,049.20
+Discount (20%) : $1,209.84
+Shipping: $199.64
+Total: $5,039.00
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-ZC2191048-41174
+

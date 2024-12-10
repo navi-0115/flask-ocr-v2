@@ -46,10 +46,10 @@ def process_pdf():
             text_file.write(combined_text)
 
         return jsonify({
-            "message": "OCR process complete",
-            "text_file_path": text_file_path
+            "message": "OCR process completed successfully",
+            "text_file_path": text_file_path,
+            "extracted_text": combined_text,
         })
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-

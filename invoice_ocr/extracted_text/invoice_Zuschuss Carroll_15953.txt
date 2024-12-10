@@ -1,0 +1,25 @@
+Page 1:
+SuperStore INVOICE
+
+# 15953
+Date: Sep 22 2012
+
+Bill To: Ship To: Sti Node: First Cl
+Zuschuss Carroll Berlin, Berlin, ciiiaieia mst Ulass
+Germany Balance Due: $17,560.21
+Item Quantity Rate Amount
+Cuisinart Stove, Silver 7 $3,018.62 $21,130.37
+
+Appliances, Office Supplies, OFF-AP-3874
+
+Subtotal: $21,130.37
+Discount (20%) : $4,226.07
+Shipping: $655.91
+Total: $17,560.21
+
+Notes:
+Thanks for your business!
+
+Terms:
+Order ID : IT-2012-ZC2191048-41174
+
