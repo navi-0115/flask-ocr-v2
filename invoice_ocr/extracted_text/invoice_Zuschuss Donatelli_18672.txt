@@ -1,0 +1,24 @@
+Page 1:
+SuperStore INVOICE
+
+# 18672
+Date: Feb 21 2012
+Bill To: Ship To: ;
+. . Ship Mode: Standard Class
+Zuschuss Donatelli Milan, Lombardy,
+aly Balance Due: $2,078.96
+Item Quantity Rate Amount
+Barricks Round Table, with Bottom Storage 4 $1,003.02 $4,012.08
+Tables, Furniture, FUR-TA-3351
+Subtotal: $4,012.08
+Discount (50%) : $2,006.04
+Shipping: $72.92
+Total: $2,078.96
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : ES-2012-ZD2192564-40960
+
