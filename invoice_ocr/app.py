@@ -11,6 +11,8 @@ TEXT_FOLDER = './invoice_ocr/extracted_text'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(TEXT_FOLDER, exist_ok=True)
 
+
+
 @app.route('/ocr', methods=['POST'])
 def process_pdf():
     try:
@@ -37,7 +39,7 @@ def process_pdf():
         combined_text = ""
         for i, image_path in enumerate(image_paths):
             image = Image.open(image_path)
-            text = pytesseract.image_to_string(image)
+            text = pytesseract.image_to_string(image, lang='chi_tra')
             combined_text += f"Page {i + 1}:\n{text}\n"
 
         # Save extracted text
