@@ -1,3 +1,4 @@
+import easyocr
 from flask import Flask, request, jsonify
 from pdf2image import convert_from_path
 from PIL import Image
