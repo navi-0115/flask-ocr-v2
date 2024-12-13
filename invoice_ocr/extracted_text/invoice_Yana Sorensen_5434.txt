@@ -1,0 +1,23 @@
+Page 1:
+SuperStore INVOICE
+
+# 5434
+Date: May 31 2012
+Bill To: Ship To:
+ne seed Ship Mode: Standard Class
+Yana Sorensen Matagalpa,
+Matagalpa, Nicaragua Balance Due: $1,031.66
+Item Quantity Rate Amount
+Dania Library with Doors, Metal 2 $482.48 $964.96
+Bookcases, Furniture, FUR-BO-3901
+Subtotal: $964.96
+Shipping: $66.70
+Total: $1,031.66
+
+Notes:
+
+Thanks for your business!
+
+Terms:
+Order ID : MX-2012-YS2188093-41060
+
