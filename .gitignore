@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-/invoice_ocr/uploads/
-/invoice_ocr/extracted_text/
+/invoice_ocr/uploads/*
+/invoice_ocr/extracted_text/*
 
 # Distribution / packaging
 .Python
